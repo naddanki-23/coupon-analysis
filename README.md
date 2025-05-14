@@ -17,7 +17,7 @@ This project explores consumer behavior in accepting driving-related coupons bas
 - plotly
 
 ## Notebooks
-- coupon_analysis.ipynb: link
+- coupon_analysis.ipynb: [link](https://drive.google.com/file/d/1FaYJIwel29aY514VXwAM2iGC_nz1itWV/view?usp=sharing)
 
 ## Analysis
 
