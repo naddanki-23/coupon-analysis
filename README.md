@@ -80,7 +80,7 @@ Interpretation: Younger, lower-income individuals may be more cost-conscious and
 *Supporting Evidence:* Acceptance rates higher for adult passengers.
 Interpretation: Bar outings are typically social/adult-oriented, making them less appealing or practical for drivers accompanied by children.
 
-<img src="images/bar_coupon_acceptance_by_companion.png" alt="Coupon Analysis" width="600"/> 
+<img src="images/bar_coupon_acceptance_by_companion (1).png" alt="Coupon Analysis" width="600"/> 
 
 **H8: Higher temperatures increase overall coupon acceptance rates.**
 *Supporting Evidence:* Correlation observed around 80°F.
