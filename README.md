@@ -68,7 +68,7 @@ Interpretation: Moderate bar-goers may see coupons as added incentive, whereas i
 *Supporting Evidence:* Age 21 tops in acceptance count.
 Interpretation: This age marks legal drinking age in many regions—drivers may be newly exposed to bar culture and more enthusiastic about related deals.
 
-
+<<img src="images/bar_coupon_acceptance_by_age.png" alt="Coupon Analysis" width="600"/>
 
 **H6: Drivers under 30 and with incomes < $50K are more likely to accept coupons in general.**
 *Supporting Evidence:* Observed trend in acceptance by age and income brackets.
@@ -80,7 +80,7 @@ Interpretation: Younger, lower-income individuals may be more cost-conscious and
 *Supporting Evidence:* Acceptance rates higher for adult passengers.
 Interpretation: Bar outings are typically social/adult-oriented, making them less appealing or practical for drivers accompanied by children.
 
-
+<img src="images/bar_coupon_acceptance_by_companion.png" alt="Coupon Analysis" width="600"/> 
 
 **H8: Higher temperatures increase overall coupon acceptance rates.**
 *Supporting Evidence:* Correlation observed around 80°F.
