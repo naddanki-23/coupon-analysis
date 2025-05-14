@@ -119,7 +119,7 @@ Interpretation: There is no overwhelming trend in favor or against coffee coupon
 
 <img src="images/coffee_coupon_acceptance_rate.png" alt="Coupon Analysis" width="600"/>
 
-##Next Steps
+## Next Steps
 - Train classification models (e.g., logistic regression, decision tree) to predict coupon acceptance.
 - Increasing the data and having a larger sample size. The sample size for each coupon was different, making the data/results not as reliable as it would be if the sample size was around the same for each coupon size. 
 
